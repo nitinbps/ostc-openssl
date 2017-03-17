@@ -1,10 +1,10 @@
 [submodule "openssl-0.9.8"]
 	path = openssl-0.9.8
 	url = git@github.com:openssl/openssl.git
-	branch = OpenSSL_0_9_8
+	branch = OpenSSL_0_9_8-Stable
 	ignore = dirty
 [submodule "openssl-1.0.0"]
 	path = openssl-1.0.0
 	url = git@github.com:openssl/openssl.git
-	branch = OpenSSL_1_0_0
+	branch = OpenSSL_1_0_0-Stable
 	ignore = dirty
